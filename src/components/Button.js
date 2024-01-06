@@ -1,11 +1,10 @@
-import React from 'react';
+import React from 'react'
 
-function Button() {
-    return (
-        <div>
-            
-        </div>
-    );
+const Button = () => {
+  return (
+    <div>Button</div>
+  )
 }
 
 export default Button;
+
